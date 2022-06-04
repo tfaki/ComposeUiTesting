@@ -7,7 +7,7 @@ How to write a ui test for a screen with one button and one text.
 
 ## Screen Gif 
 <p align="center" width="100%">
-    <img width="33%" src="Screen.gif" width="375" height="700">
+    <img width="33%" src="Screen.gif" width="155" height="450">
 </p>
 
 ## Click the link for more
